@@ -173,6 +173,33 @@ h1 small {
 	width:960px;
 	background-color:#FFF;
 }
+
+.content .widebar {
+	margin:0;
+	padding:0;
+	float:left;
+	width:940px;
+}
+
+.content .widebar .article {
+	margin:0 0 0px;
+	padding-left: 20px;
+	border:0px;
+	/*background:#ffae00;*/
+}
+.content .widebar .article a {
+	color:#161616;
+	text-decoration:underline;
+}
+.content .widebar .post_content {
+	float:right;
+	width:410px;
+}
+.content .widebar .post_content strong {
+	color:#3f3f3f;
+}
+
+
 .content .mainbar {
 	margin:0;
 	padding:0;
